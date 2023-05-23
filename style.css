@@ -1,7 +1,8 @@
 .page {
-    background-color: pink;
+    background-color: indianred;
 }
 
-.page__title {
+.page__title_text {
     text-align: center;
+    color:antiquewhite;
 }
